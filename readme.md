@@ -6,3 +6,4 @@
 1. 安裝AutoHotkey: https://www.autohotkey.com/
 2. 按win+R輸入: shell:startup
 3. 將ChangeChineseAndEnglishLikeMac.ahk 放入資料夾內
+4. 重新啟動電腦(或執行檔案)
